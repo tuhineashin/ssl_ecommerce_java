@@ -1,3 +1,4 @@
 # ssl_ecommerce_java
-# This Source is an Payment Getway (SSL Ecommerce) 
-# Language Java (Android Studio)
+
+ This Source is a Payment Gateway (SSL E-commerce) 
+ Language Java (Android Studio)
